@@ -49,7 +49,7 @@ const Home = () => {
         Login
       </button>
       <p className="mt-2">
-        Don't have an account?{" "}
+        Dont have an account?{" "}
         <button
           className="text-blue-500 cursor-pointer"
           onClick={() => router.push("/register")}
